@@ -1,0 +1,10 @@
+# Data Path 
+filename : '../data/data.pickle'
+
+# Variance 
+
+v_var : 0.01  # Linear Velocity Variance
+om_var : 0.01 # Angular Velocity Variance
+r_var : 0.01  # Lidar Range Variance
+b_var : 10    # Lidar bearing Variance
+
